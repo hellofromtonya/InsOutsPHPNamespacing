@@ -1,6 +1,6 @@
 # Ins and Outs of PHP Namespacing Lab
 
-This repository is for a starter WordPress plugin for the [Ins and Outs of PHP Namespacing for WordPress](https://knowthecode.io/labs/ins-outs-php-namespace-wordpress(https://knowthecode.io/labs/ins-outs-php-namespace-wordpress) lab.  You'll use this plugin throughout the hands-on coding lab.  You'll be building code as you learn deeply about PHP namespacing.
+This repository is for a starter WordPress plugin for the [Ins and Outs of PHP Namespacing for WordPress](https://knowthecode.io/labs/ins-outs-php-namespace-wordpress) lab.  You'll use this plugin throughout the hands-on coding lab.  You'll be building code as you learn deeply about PHP namespacing.
 
 ## Installation
 
