@@ -44,14 +44,15 @@ function phpnamespacing_register_custom_post_type() {
 	) );
 
 	$args = array(
-		'label'        => __( 'Journals', 'php-namspacing' ),
-		'labels'       => $labels,
-		'public'       => true,
-		'supports'     => $features,
-		'menu_icon'    => 'dashicons-admin-page',
-		'hierarchical' => false,
-		'has_archive'  => true,
+		'label'         => __( 'Journals', 'php-namspacing' ),
+		'labels'        => $labels,
+		'public'        => true,
+		'supports'      => $features,
+		'menu_icon'     => 'dashicons-admin-page',
+		'hierarchical'  => false,
+		'has_archive'   => true,
 		'menu_position' => 10,
+		'show_in_rest'  => true
 	);
 
 	register_post_type( 'journal', $args );
